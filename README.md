@@ -1,1 +1,1 @@
-# Supermarket_Trend-Product_Analysis
+This project involves conducting an in-depth analysis of the Supermarket Sales data for the year 2019. The goal is to extract valuable insights that can drive strategic decision-making and foster growth opportunities for the supermarket business.
